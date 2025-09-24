@@ -1,0 +1,15 @@
+/**
+ * @license
+ * SPDX-License-Identifier: Apache-2.0
+*/
+
+.generation-container {
+  /*
+    Constrains the max height of the central image generation area.
+    This prevents the container from growing too tall on wide screens,
+    which was causing the adjustment panel to be overlapped by the
+    main controls at the bottom of the page. 70vh leaves enough
+    room for the header and footer controls on most screen sizes.
+  */
+  max-height: 70vh;
+}
