@@ -1,6 +1,6 @@
 /**
  * @license
- * SPDX-License-Identifier: Apache-2.0
+ * SPDX-License-Identifier: BSD 3-Clause License
 */
 
 import { GoogleGenAI, GenerateContentResponse } from "@google/genai";
