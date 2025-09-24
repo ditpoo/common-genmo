@@ -17,3 +17,15 @@ This contains everything you need to run your app locally.
    `npm run dev`
 
 Note: Only the code/file at services/geminiService.ts is licensed under BSD 3-Clause License, rest everything is Apcahe 2.0, so would advise to use that and this project as reference, and create something tranformative, if intent is on expanding or building something using it.
+
+<p align="center">
+    <img align="center" src="/public/sm.jpeg" alt="Common-Genmo" width="512" height="512"/>
+</p>
+
+x-post: https://x.com/dpawnlabs/status/1964938317168046470
+
+submission-videos:
+
+submission: https://www.youtube.com/watch?v=z5Bs9q9jEG4
+
+demo: https://www.youtube.com/watch?v=q1Ht9SnsGFA
